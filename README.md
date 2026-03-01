@@ -143,5 +143,3 @@ This project emphasizes:
 * Reproducible computational analysis
 * Transparent data organization
 * Modular visualization design
-
-Just tell me the audience 👀
